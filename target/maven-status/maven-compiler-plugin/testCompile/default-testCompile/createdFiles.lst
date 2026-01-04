@@ -1,0 +1,10 @@
+org/newqa/selenium/AlertHandling.class
+org/newqa/selenium/ExplicitWait.class
+locator/Locator.class
+org/newqa/selenium/ExceptionHandling.class
+org/newqa/selenium/RegisterFill.class
+tests/LoginTest.class
+tests/NewTest.class
+org/newqa/selenium/ImplicitWait.class
+org/newqa/selenium/SirEH.class
+pages/LoginPage.class
